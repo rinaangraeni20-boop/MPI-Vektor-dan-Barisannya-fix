@@ -1,0 +1,2 @@
+# MPI-Vektor-dan-Barisannya-fix
+MPI VEKTOR DAN OPERASINYA SMKN 5 KOLAKA UTARA
